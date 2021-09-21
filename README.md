@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayswaterpc&label=Profile%20views&color=0e75b6&style=flat" alt="bayswaterpc" /> </p>
 
-- 🔭 I’m currently working on [Bayswater Pc](https://github.com/bayswaterpc/bayswaterpc-superplate-blog)
+- 🔭 I’m currently working on [my blog website](https://github.com/bayswaterpc/bayswaterpc-superplate-blog)
 
 - 🌱 I’m currently learning **NextJs, Prisma, Nest Js**
 
