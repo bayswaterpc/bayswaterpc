@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my blog website](https://github.com/bayswaterpc/bayswaterpc-superplate-blog)
 
-- 🌱 I’m currently learning **NextJs, Prisma, Nest Js**
+- 🌱 I’m currently learning **Expo, Type ORM, Nest Js**
 
 - 👯 I’m looking to collaborate on [WarbossWaaghit](https://github.com/bayswaterpc/WarbossWaaghit)
 
