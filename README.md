@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayswaterpc&label=Profile%20views&color=0e75b6&style=flat" alt="bayswaterpc" /> </p>
 
-- 🔭 I’m currently working on [my blog website](https://github.com/bayswaterpc/bayswaterpc-superplate-blog)
+- 🔭 I’m currently working on [OWAAGH](https://github.com/bayswaterpc/owaagh)
 
-- 🌱 I’m currently learning **Expo, Type ORM, Nest Js**
+- 🌱 I’m currently learning **Tauri, Nest Js, Prisma**
 
-- 👯 I’m looking to collaborate on [WarbossWaaghit](https://github.com/bayswaterpc/WarbossWaaghit)
-
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **Rust, Software Development, Mining Engineering, Photography, & Anything that interests you**
 
 - 📫 How to reach me **bayswaterpc@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/bayswaterpc](https://github.com/bayswaterpc)
+- 📄 [Learn more about me](https://www.bayswaterpc.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
