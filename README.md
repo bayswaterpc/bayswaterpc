@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayswaterpc&label=Profile%20views&color=0e75b6&style=flat" alt="bayswaterpc" /> </p>
 
-- 🔭 I’m currently working on [OWAAGH](https://github.com/bayswaterpc/owaagh)
+- 🔭 I’m currently working on [web tauri monorepo](https://github.com/bayswaterpc/monorepo-with-tauri-client)
 
 - 🌱 I’m currently learning **Tauri, Nest Js, Prisma**
 
