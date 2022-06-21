@@ -26,3 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayswaterpc&show_icons=true&locale=en" alt="bayswaterpc" /></p>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
