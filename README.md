@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayswaterpc&label=Profile%20views&color=0e75b6&style=flat" alt="bayswaterpc" /> </p>
 
-- 🔭 I’m currently working on [web tauri monorepo](https://github.com/bayswaterpc/monorepo-with-tauri-client)
+- 🔭 I’m currently working on [axum server client example](https://github.com/bayswaterpc/axum_rest_cli_client)
 
-- 🌱 I’m currently learning **Tauri, Nest Js, Prisma**
+- 🌱 I’m currently learning **Axum**
 
 - 💬 Ask me about **Rust, Software Development, Mining Engineering, Photography, & Anything that interests you**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jwbayswater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jwbayswater" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sky farming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sky farming" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSxKtXJB-TFbTizlaUpyuMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sky farming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
