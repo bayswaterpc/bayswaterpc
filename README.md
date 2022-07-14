@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayswaterpc&label=Profile%20views&color=0e75b6&style=flat" alt="bayswaterpc" /> </p>
 
-- 🔭 I’m currently working on [axum server client example](https://github.com/bayswaterpc/axum_rest_cli_client)
+- 🔭 I’m currently working on [axum server client example](https://github.com/bayswaterpc/axum_rest_cli_client) and solving [leetcode problems with rust](https://github.com/bayswaterpc/reetcode)
 
 - 🌱 I’m currently learning **Axum**
 
